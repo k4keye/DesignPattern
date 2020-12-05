@@ -1,0 +1,7 @@
+D:\ProjectPath\GitOpen\DesignPattern\﻿StrategyPattern\﻿StrategyPattern\bin\Debug\﻿StrategyPattern.exe.config
+D:\ProjectPath\GitOpen\DesignPattern\﻿StrategyPattern\﻿StrategyPattern\bin\Debug\﻿StrategyPattern.exe
+D:\ProjectPath\GitOpen\DesignPattern\﻿StrategyPattern\﻿StrategyPattern\bin\Debug\﻿StrategyPattern.pdb
+D:\ProjectPath\GitOpen\DesignPattern\﻿StrategyPattern\﻿StrategyPattern\obj\Debug\﻿StrategyPattern.csprojAssemblyReference.cache
+D:\ProjectPath\GitOpen\DesignPattern\﻿StrategyPattern\﻿StrategyPattern\obj\Debug\﻿StrategyPattern.csproj.CoreCompileInputs.cache
+D:\ProjectPath\GitOpen\DesignPattern\﻿StrategyPattern\﻿StrategyPattern\obj\Debug\﻿StrategyPattern.exe
+D:\ProjectPath\GitOpen\DesignPattern\﻿StrategyPattern\﻿StrategyPattern\obj\Debug\﻿StrategyPattern.pdb
