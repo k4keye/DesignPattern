@@ -1,0 +1,7 @@
+D:\ProjectPath\GitOpen\DesignPattern\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe.config
+D:\ProjectPath\GitOpen\DesignPattern\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe
+D:\ProjectPath\GitOpen\DesignPattern\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.pdb
+D:\ProjectPath\GitOpen\DesignPattern\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.csprojAssemblyReference.cache
+D:\ProjectPath\GitOpen\DesignPattern\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.csproj.CoreCompileInputs.cache
+D:\ProjectPath\GitOpen\DesignPattern\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.exe
+D:\ProjectPath\GitOpen\DesignPattern\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.pdb
