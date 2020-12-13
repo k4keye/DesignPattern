@@ -10,7 +10,7 @@ namespace SingletonPattern
     {
         static private Api instance;
 
-        private Api()
+        private Api() //생성자를 사용하지못하게 Private로 막아둔다.
         {
 
         }
